@@ -1,4 +1,2 @@
-# printf
-Team Task
-Group Project
-
+printf team project
+done by Umi and Bryan
